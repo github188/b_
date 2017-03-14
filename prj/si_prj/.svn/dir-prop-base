@@ -1,0 +1,31 @@
+K 14
+bugtraq:number
+V 4
+true
+K 10
+svn:ignore
+V 332
+*.SearchResults
+F6K_bfd.IAB
+F6K_bfd.IAD
+F6K_bfd.IMB
+F6K_bfd.IMD
+F6K_bfd.PFI
+F6K_bfd.PO
+F6K_bfd.PR
+F6K_bfd.PRI
+F6K_bfd.PS
+F6K_bfd.SearchResults
+F6K_bfd.WK3
+f6k_code_test.IAB
+f6k_code_test.IAD
+f6k_code_test.IMB
+f6k_code_test.IMD
+f6k_code_test.PFI
+f6k_code_test.PO
+f6k_code_test.PR
+f6k_code_test.PRI
+f6k_code_test.PS
+f6k_code_test.WK3
+
+END

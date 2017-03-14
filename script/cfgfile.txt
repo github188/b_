@@ -1,0 +1,14 @@
+BoardName=RCUP1
+SoftVersion=RP0100
+SoftModify=0002
+BoardSNMain=WKE2.201.321S1A
+Sys=vxWorks
+BoardHardVersion=WKE2.201.321S1A
+sourcePath=..\..\release\out\
+mainfolder=R200836-241-13DC
+outFilePath=..\..\release\
+logfile=..\..\release\Change.log
+vxWorks=vxWorks_mini8308.z
+loadlist=bmulibV2Hard_8308.zb,PCIe.zb,P-OTS.zb,BCM_ARAD.zb,32TN1_HARD.zb,OTN_COMM2.zb,32TN1_SOFT.zb
+outFileName=(32TN1-200836R2P)01.cab
+detaillist=bmulibV2Hard_8308.zb,PCIe.zb,P-OTS.zb,BCM_ARAD.zb,32TN1_HARD.zb,FH_32TN1_TOP.zj,FH_OAM_32TN1.zj,OTN_COMM2.zb,32TN1_SOFT.zb,arad.soc,k10.bin,BCM88650_A0_0.srec
